@@ -1,0 +1,5 @@
+.env
+.git/
+logs/
+b站解析_venv/
+__pycache__/
